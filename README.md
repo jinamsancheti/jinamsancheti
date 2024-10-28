@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+<br>
 ## I'm currently working on:
 I'm working on several projects blending web development with backend APIs. For instance, during my recent Developer Internship at SafeZen, I developed a full-stack website focused on enhancing mental well-being, using React for the UI and Node.js with MySQL for the backend. I also completed a summer internship at TechWalnut Innovations, where I worked on projects involving the Gemini API to support CRUD operations across multiple database languages. One of the projects I enjoyed was creating an app that generates React code directly.<br><br><br>
 ## I'm looking to collaborate on:
