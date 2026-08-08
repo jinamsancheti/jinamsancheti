@@ -9,9 +9,6 @@ I'm looking to collaborate on projects that involve complex web development or d
 I’m interested in learning more about deploying and scaling applications effectively, particularly with cloud environments. While I’m comfortable with development and deployment basics, I’d appreciate guidance on advanced deployment techniques and best practices for handling production environments for applications with growing user bases.<br><br><br>
 ## Ask me about:
 Feel free to ask me about developing interactive, user-friendly applications. I’ve worked on projects like HungryApp, a console-based food ordering app, where I implemented AVL trees with linked lists for efficient searching, and STUDAL, a student life app that simplifies time management and provides academic resources. I’m happy to share what I’ve learned about structuring these kinds of projects and optimizing search functionalities!<br><br>
-## Fun fact:
-I ranked in the top 0.75% of the IIT JEE Advanced Examination and am a Student Mentor at VNIT.<br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jinamsancheti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinam-sancheti-b11964223) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JinamSancheti) 
